@@ -2,7 +2,7 @@
 
 ## ->A basic arithmetic calculator for android users.
 
-### ->Thats how it looks:-
+### ->It looks just like the mac calculator ;)
 
 <p align="center">
 <img src="calculator.png" height="500"/>
